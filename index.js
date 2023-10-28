@@ -14,10 +14,10 @@ window.onscroll = () => {
 };
 
 document.getElementById('resume-button-1').addEventListener("click", () => {
-  window.open("https://drive.google.com/file/d/1up4dMx7FQMzTD5ihQMngZcX6sz3QiSQS/view?usp=sharing", "_blank");
+  window.open("./Resume/Pallava-Kuar-Resume (7).pdf");
 });
 
 document.getElementById('resume-button-2').addEventListener("click", () => {
-  window.open("https://drive.google.com/file/d/1up4dMx7FQMzTD5ihQMngZcX6sz3QiSQS/view?usp=sharing", "_blank");
+  window.open("./Resume/Pallava-Kuar-Resume (7).pdf");
 });
 
