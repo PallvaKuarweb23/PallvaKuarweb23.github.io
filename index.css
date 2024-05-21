@@ -52,6 +52,7 @@ body {
 
 .heading h2 {
     font-size: 30px;
+    margin-top: 30px;
 }
 
 .heading span {
@@ -84,6 +85,10 @@ header.shadow {
     font-size: 1.61rem;
     font-weight: 600;
     color: var(--text-color);
+}
+
+.nav-link contact2{
+    background-color: #033a80;
 }
 
 .logo span {
@@ -185,6 +190,17 @@ header.shadow {
     color: #fff;
     padding: 0.7rem 1.3rem;
     border-radius: 0.5rem;
+}
+
+.contact2{
+    background: var(--main-color);
+    color: #fff;
+    padding: 0.5rem 1.3rem;
+    border-radius: 0.5rem;
+    border: none;
+    cursor: pointer;
+    background: #2768d9;
+    letter-spacing: 1px;
 }
 
 .btn:hover {
@@ -594,6 +610,12 @@ span {
 
     .contact-button {
         margin-left: 25%;
+        /* background-color: #033a80; */
+        /* border: 2px solid red; */
+    }
+
+    .contact2{
+        
     }
 
     #git-stat>div>img {
